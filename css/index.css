@@ -124,7 +124,7 @@ h2{
 .section4>p{
 	position:absolute;
 	left:50%;
-	bottom:10px;
+	bottom:10%;
 	text-align:center;
-	margin-left:106px;
+	margin-left:-106px;
 }
