@@ -96,17 +96,23 @@ h2{
 .section3 p{
 	white-space: nowrap;	
 }
+.section3 .text a{
+	color: #ff9000;
+}
 .section4{
 	padding: 2%;
 }
+.section3 a{
+	color: #ff9000;
+}
 .row>.col{
 	float: left;
-	width: 28%;
+	width: 27%;
 	height: 50%;
 	margin-right: 2%;
 	margin-top: 20px;
 	background-color: #eee;
-	padding: 18px;
+	padding: 2%;
 }
 .col>.pic{
 	display: block;
